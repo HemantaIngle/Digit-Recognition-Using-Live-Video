@@ -1,0 +1,16 @@
+Coded By -Hemanta Ingle, Ms EE, SJSU, CA.
+Contact-hemanta.ingle@sjsu.edu
+Git link-https://github.com/HemantaIngle
+Digit Recognition
+Code Requirements
+You can install Conda for python which resolves all the dependencies for machine learning.
+Python Implementation
+Dataset- MNIST dataset
+Images of size 28 X 28
+Classify digits from 0 to 9
+Logistic Regression, Shallow Network and Deep Network Support added.
+Test Acuracy ~ 90 to 98%
+Execution for showing images through webcam
+To run the code, type python Digit-Recognizer.py
+
+python Digit-Recognizer.py
